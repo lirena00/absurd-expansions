@@ -24,9 +24,8 @@ We encourage contributions from anyone with a knack for absurdity and a love for
 ## Example Absurd Expansions:
 
 - **PIP:** Penguins In Pajamas
-- **NPM:** Noodles Performing Magic
-- **HTML:** Highly Trained Monkeys Laughing
+- **NPM:** Neil Patrick's Mansion
 
 ## License
 
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This repository is licensed under the MIT License. See the [LICENSE](https://github.com/LiReNa00/absurd-expansions/blob/main/LICENSE) file for details.
