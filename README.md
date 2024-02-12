@@ -26,6 +26,11 @@ We encourage contributions from anyone with a knack for absurdity and a love for
 - **PIP:** Penguins In Pajamas
 - **NPM:** Neil Patrick's Mansion
 
+## Inspiration
+
+The idea for Absurd Expansions was inspired by [npm-expansions](https://github.com/npm/npm-expansions) but they don't merge PRs anymore so here we are.
+
+
 ## License
 
 This repository is licensed under the MIT License. See the [LICENSE](https://github.com/LiReNa00/absurd-expansions/blob/main/LICENSE) file for details.
