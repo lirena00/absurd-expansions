@@ -11,7 +11,7 @@ Absurd Expansions is a fun and creative repository dedicated to providing hilari
 We encourage contributions from anyone with a knack for absurdity and a love for programming. To contribute your own absurd expansions:
 
 1. Fork this repository.
-2. Add your absurd expansion(s) to the appropriate file(s) in the `expansions` directory.
+2. Add your absurd expansion(s) to the appropriate file(s) in the `expansions` directory, maintaining alphabetical order.
 3. Ensure your expansion follows our guidelines for absurdity and creativity.
 4. Submit a pull request.
 
