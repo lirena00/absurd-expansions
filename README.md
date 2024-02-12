@@ -25,6 +25,7 @@ We encourage contributions from anyone with a knack for absurdity and a love for
 
 - **PIP:** Penguins In Pajamas
 - **NPM:** Neil Patrick's Mansion
+- **API:** Antelopes Performing Incantations
 
 ## Inspiration
 
