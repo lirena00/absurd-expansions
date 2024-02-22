@@ -4,3 +4,4 @@ Nashedi Package Manager
 Neil Patrick's Mansion
 Noteworthy Potato Monstrosity
 Not a Package Manager
+No Pr Merged
