@@ -20,6 +20,7 @@ We encourage contributions from anyone with a knack for absurdity and a love for
 - Be creative: Think outside the box and come up with expansions that are delightfully absurd.
 - Keep it light-hearted: We're here to have fun, so avoid anything offensive or inappropriate.
 - Stick to programming-related terms: While the expansions may be absurd, they should still relate to programming, technology, or software development.
+- Add a crisp context to your expansion at the end of the line using `()`.
 
 ## Example Absurd Expansions:
 
