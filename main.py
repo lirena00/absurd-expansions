@@ -1,8 +1,13 @@
 from fastapi import FastAPI
+from fastapi.responses import RedirectResponse
 import os
 import random
 
 app = FastAPI()
+
+@app.get("/")
+async def home():
+	return RedirectResponse("/docs")
 
 @app.get("/random")
 async def random_expansion(abbr=None):
