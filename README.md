@@ -1,10 +1,6 @@
 # Absurd Expansions
 
-Welcome to Absurd Expansions, where we take programming acronyms and abbreviations to a whole new level of absurdity! 
-
-## What is Absurd Expansions?
-
-Absurd Expansions is a fun and creative repository dedicated to providing hilariously absurd expansions for commonly used programming-related short forms. Here, you'll find nonsensical and whimsical interpretations of acronyms that will leave you chuckling and scratching your head in disbelief.
+Absurd Expansions is a fun and creative repository dedicated to providing hilariously absurd expansions for commonly used programming-related short forms. Here, you'll find nonsensical and whimsical interpretations of acronyms that will leave you chuckling and scratching your head in disbelief and it also have api so you can access it 
 
 ## How to Contribute?
 
