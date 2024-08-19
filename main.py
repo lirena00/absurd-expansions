@@ -12,6 +12,7 @@ async def home():
 @app.get("/random")
 async def random_expansion(acr=None):
     try:
+        
         if acr is not None:
             selected_file = f'{acr.lower()}.txt'
             filepath = f'expansions\{selected_file}'
