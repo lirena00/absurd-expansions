@@ -1,9 +1,4 @@
 {
   "builds": [{ "src": "main.py", "use": "@vercel/python" }],
-  "routes": [{ "src": "/(.*)", "dest": "main.py" }],
-  "functions": {
-    "main.py": {
-      "includeFiles": "expansions/**"
-    }
-  }
+  "routes": [{ "src": "/(.*)", "dest": "main.py" }]
 }
