@@ -1,5 +1,6 @@
 from fastapi import FastAPI
 from fastapi.responses import RedirectResponse
+from http.server import BaseHTTPRequestHandler
 import os
 import random
 
@@ -19,7 +20,7 @@ async def random_expansion(acr=None):
         else:
             files = os.listdir('expansions')
             selected_file = random.choice(files)
-            filepath = os.path.join('expansions', selected_file)
+            filepath = join('expansions', selected_file)
 
         with open(filepath, 'r') as file:
             lines = file.readlines()
