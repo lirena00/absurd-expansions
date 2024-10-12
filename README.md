@@ -1,6 +1,6 @@
 # Absurd Expansions
 
-Absurd Expansions is a fun and creative repository dedicated to providing hilariously absurd expansions for commonly used programming-related short forms. Here, you'll find nonsensical and whimsical interpretations of acronyms that will leave you chuckling and scratching your head in disbelief and it also have api so you can access it 
+Absurd Expansions is a fun and creative repository dedicated to providing hilariously absurd expansions for commonly used programming-related short forms. Here, you'll find nonsensical and whimsical interpretations of acronyms that will leave you chuckling and scratching your head in disbelief and it also have api so you can access it
 
 ## How to Contribute?
 
@@ -35,7 +35,6 @@ https://absurd-expansions.vercel.app/random?acr=<acronym>
 ## Inspiration
 
 The idea for Absurd Expansions was inspired by [npm-expansions](https://github.com/npm/npm-expansions) but they don't merge PRs anymore so here we are.
-
 
 ## License
 
