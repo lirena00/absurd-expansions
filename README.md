@@ -18,6 +18,14 @@ We encourage contributions from anyone with a knack for absurdity and a love for
 - Stick to programming-related terms: While the expansions may be absurd, they should still relate to programming, technology, or software development.
 - Add a crisp context to your expansion at the end of the line using `()`.
 
+## Usage
+
+To get a random absurd expansion, you can use the following endpoint:
+
+```
+https://absurd-expansions.vercel.app/random?acr=<acronym>
+```
+
 ## Example Absurd Expansions:
 
 - **PIP:** Penguins In Pajamas
